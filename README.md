@@ -1,16 +1,38 @@
-## Hi there 👋
+# Oi! Eu sou a Gi 👋
 
-<!--
-**GiovanaSantoss/GiovanaSantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação e apaixonada por tecnologia, energético e resolver problemas (às vezes rs). Atualmente ando explorando tudo que envolve desenvolvimento web e sistemas!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+- 👩‍💻 Estagiando como desenvolvedora
+- ⚙️ Curiosa por back-end, banco de dados e com um olhar pra automação
+- 🚐 Faço faculdade em outra cidade 
+- 📚 Atualmente estudando: PHP, Java, ESP32, apanhando pra C 😵‍💫 entre outras coisas...
+
+---
+
+## 🔧 Tecnologias que já usei
+
+- `Java` 
+- `PHP` e `MySQL`
+- `HTML`, `CSS`, `JavaScript`
+- `C`
+
+---
+
+## ✨ Alguns projetos legais
+
+- **Sistema de Leitura de Hidrômetros para estágio**;
+- **Monitoramento com ESP32**;
+
+---
+
+## 📫 Onde me encontrar
+
+- [LinkedIn](www.linkedin.com/in/giovana-gonzaga-dos-santos-124b722a8) 
+- E claro, aqui mesmo nos repositórios do meu perfil!
+- ps: comecei a usar o git/github agora, então se tiver alguma dica vamos nos conectar no linkedin!
+
+
