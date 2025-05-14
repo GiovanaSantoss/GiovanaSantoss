@@ -31,7 +31,7 @@ Sou estudante de Ciência da Computação e apaixonada por tecnologia, energéti
 
 ## 📫 Onde me encontrar
 
-- LinkedIn - Giovana Gonzaga dos Santos
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-gonzaga-dos-santos/)
 - E claro, aqui mesmo nos repositórios do meu perfil!
 - ps: comecei a usar o git/github agora, então se tiver alguma dica vamos nos conectar no linkedin!
 
