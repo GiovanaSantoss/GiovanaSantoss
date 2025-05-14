@@ -31,7 +31,7 @@ Sou estudante de Ciência da Computação e apaixonada por tecnologia, energéti
 
 ## 📫 Onde me encontrar
 
-- [LinkedIn]([[www.linkedin.com/in/giovana-gonzaga-dos-santos-124b722a8](https://www.linkedin.com/in/giovana-gonzaga-dos-santos-124b722a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/giovana-gonzaga-dos-santos-124b722a8/)) 
+- [LinkedIn](www.linkedin.com/in/giovana-gonzaga-dos-santos-124b722a8](https://www.linkedin.com/in/giovana-gonzaga-dos-santos-124b722a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
 - E claro, aqui mesmo nos repositórios do meu perfil!
 - ps: comecei a usar o git/github agora, então se tiver alguma dica vamos nos conectar no linkedin!
 
