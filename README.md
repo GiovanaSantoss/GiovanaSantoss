@@ -1,11 +1,9 @@
 <!-- Banner de fundo (simulando) -->
 <p align="center">
-  <img src="banner.png" alt="Banner" style="width: 50%; max-height:300px; object-fit: cover;">
+  <img src="banner.png" alt="Banner" style="width: 100%; max-height:100px; object-fit: cover;">
 </p>
 
-<h1 align="center">Oi! Eu sou a Gi 👩‍💻</h1>
-
-<p align="center">Estudante de tecnologia, apaixonada em adquirir conhecimento!</p>
+<h3 align="center">Estudante de tecnologia, apaixonada em adquirir conhecimento!</h3>
 
 ---
 
